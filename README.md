@@ -10,7 +10,7 @@ Resource Management: Balance the extraction and processing of resources to maint
 
 Strategic Gameplay: Players must plan and optimize their base layout and resource flow to succeed in the challenging environment of an alien world.
 
-## Game Inages
+## Game Images
 ![Screenshot 2024-08-12 at 9 23 16 PM](https://github.com/user-attachments/assets/02e217d9-6f1a-468c-bfb0-6bb125c6b8b0)
 
 <img width="1440" alt="Screenshot 2024-08-12 at 9 23 24 PM" src="https://github.com/user-attachments/assets/4ee32782-dae2-44ab-a8d3-31d4bcc0a062">
